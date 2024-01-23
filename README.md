@@ -1,4 +1,4 @@
-# LAD_PartSeg
+# Part Segmentation-based Anomaly detection (PSAD)
 
-This project is for logical anomaly detection utilizing part segmentation.
-Code and segmentation dataset will be released after publication.
+This repository is the code for the paper titled "Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection" accepted in AAAI2024.
+Source code will be released soon.
