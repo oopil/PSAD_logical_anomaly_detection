@@ -1,6 +1,6 @@
 # PSAD: Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection
 
-This repository includes a pytorch implementation of the paper "Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection" accepted in AAAI2024.
+This repository includes a pytorch implementation of the paper "Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection" accepted in [AAAI2024](https://ojs.aaai.org/index.php/AAAI/article/view/28703).
 
 ## Abstract
 
