@@ -16,7 +16,7 @@ Logical anomalies (LA) refer to data violating underlying logical constraints e.
 - We use MVTec LOCO AD Dataset for evaluation. For details of this dataset, please see [here](https://www.mvtec.com/company/research/datasets/mvtec-loco). 
 
 ## Training 
-To implement our proposed Part Segmentation-based Anomaly Detection (PSAD), follow procedure shown as below. If you want to skip the preprocessing and segmentation process 1~4, download [preprocessed images](https://drive.google.com/file/d/1lpJgU2G5cpW6b_WTtKJUNH7Oelyltioc/view?usp=drive_link), [segmentation maps](https://drive.google.com/file/d/1uE7pXn6XwGHxiHhNv7iCb-gj62PC-HkM/view?usp=sharing) and use them as inputs.
+To implement our proposed Part Segmentation-based Anomaly Detection (PSAD), follow procedure shown as below. If you want to skip the preprocessing and segmentation process 1~4, download [preprocessed images](https://drive.google.com/file/d/1lpJgU2G5cpW6b_WTtKJUNH7Oelyltioc/view?usp=drive_link), [segmentation maps](https://drive.google.com/file/d/1Esa06exQ2cH3c3GIozpdU2-qmwKiVBdr/view?usp=sharing) and use them as inputs.
 
 1. Annotate few labeled images per category.
 
